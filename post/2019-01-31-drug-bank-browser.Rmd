@@ -1,0 +1,19 @@
+---
+title: Drug Bank Browser
+author: Mohammed Ali
+runtime: shiny
+date: '2019-01-31'
+slug: drug-bank-browser
+categories:
+  - Shiny R
+  - R
+tags:
+  - DrugBank
+  - DataTable
+  - dbparser
+  - collabsable tree
+keywords:
+  - tech
+---
+
+<!--more-->

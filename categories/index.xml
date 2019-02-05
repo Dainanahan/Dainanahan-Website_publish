@@ -13,9 +13,18 @@
     <item>
       <title>R</title>
       <link>/categories/r/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 31 Jan 2019 00:00:00 +0000</pubDate>
       
       <guid>/categories/r/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shiny R</title>
+      <link>/categories/shiny-r/</link>
+      <pubDate>Thu, 31 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/shiny-r/</guid>
       <description></description>
     </item>
     
